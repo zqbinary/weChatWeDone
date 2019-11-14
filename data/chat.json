@@ -1,0 +1,44 @@
+[
+  {
+    "mesDes": 1,
+    "mesLocalID": 1,
+    "messageType": 10000,
+    "msgContent": "你已添加了ō，现在可以开始聊天了。",
+    "msgCreateTime": 1567906373
+  },
+  {
+    "mesDes": 1,
+    "mesLocalID": 2,
+    "messageType": 1,
+    "msgContent": "到家了到家了 真的超级热[哈欠]",
+    "msgCreateTime": 1567912629
+  },
+  {
+    "mesDes": 0,
+    "mesLocalID": 3,
+    "messageType": 1,
+    "msgContent": "好",
+    "msgCreateTime": 1567913761
+  },
+  {
+    "mesDes": 0,
+    "mesLocalID": 4,
+    "messageType": 1,
+    "msgContent": "这种天气出去就是自杀",
+    "msgCreateTime": 1567913779
+  },
+  {
+    "mesDes": 1,
+    "mesLocalID": 5,
+    "messageType": 47,
+    "msgContent": "<msg><emoji fromusername = \"virus890412\" tousername = \"zhengquan8963\" type=\"1\" idbuffer=\"media:0_0\" md5=\"47a692eead97778eb79993eec5403466\" len = \"822432\" productid=\"\" androidmd5=\"47a692eead97778eb79993eec5403466\" androidlen=\"822432\" s60v3md5 = \"47a692eead97778eb79993eec5403466\" s60v3len=\"822432\" s60v5md5 = \"47a692eead97778eb79993eec5403466\" s60v5len=\"822432\" cdnurl = \"http://emoji.qpic.cn/wx_emoji/bcMIa3Nq5WhX7ic4fqMczWo5MYMbRogaYVjcm7wbhOLe8zlPGxiaoOQaIlqaUDb3s2/\" designerid = \"\" thumburl = \"\" encrypturl = \"http://emoji.qpic.cn/wx_emoji/bcMIa3Nq5WhX7ic4fqMczWo5MYMbRogaYVjcm7wbhOLf966ZkCySjZHQxJe0xFrGu/\" aeskey= \"947198112572e5918f45560605adbe17\" externurl = \"http://emoji.qpic.cn/wx_emoji/bcMIa3Nq5WhX7ic4fqMczWo5MYMbRogaYVjcm7wbhOLc0cGI9ictqib1bNNWzBCS4fN/\" externmd5 = \"c7b04c077f524cac3b5fd18f417c8d05\" width= \"363\" height= \"363\" tpurl= \"\" tpauthkey= \"\" attachedtext= \"\" attachedtextcolor= \"\" lensid= \"\" ></emoji> <gameext type=\"0\" content=\"0\" ></gameext></msg>",
+    "msgCreateTime": 1567913813
+  },
+  {
+    "mesDes": 1,
+    "mesLocalID": 6,
+    "messageType": 1,
+    "msgContent": "没错",
+    "msgCreateTime": 1667913817
+  }
+]
